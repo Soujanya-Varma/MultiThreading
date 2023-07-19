@@ -42,11 +42,6 @@ class Add implements Runnable{
 		System.out.println(res);
 	}
 }
-
-
-
-
-
 public class Code13 {
 public static void main(String[] args) {
 		
